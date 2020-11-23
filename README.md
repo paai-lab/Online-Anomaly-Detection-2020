@@ -1,5 +1,5 @@
 # Online anomaly detection using statistical leverage for streaming business process events
-__REFERENCE= *Online anomaly detection using statistical leverage for streaming business process events*, Jonghyeon Ko and Marco Comuzzi, Proceedings of International Workshop on Streaming Analytics for Process Mining, SA4PM 2020, Accepted for publication (Sep 2020)__
+__Reference: *Online anomaly detection using statistical leverage for streaming business process events*, Jonghyeon Ko and Marco Comuzzi, Proceedings of International Workshop on Streaming Analytics for Process Mining, SA4PM 2020, Accepted for publication (Sep 2020)__
 
 This repository shows developed algorithm of adjected leverage score and online anomaly detection for event log.
 The algorithm of online anomaly detection is coded using statistical package R as seen in folder "code" and it calculates anomaly score for each case in trace level and designs the anomaly score for online setting. 
